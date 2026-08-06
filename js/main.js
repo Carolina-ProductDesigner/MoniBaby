@@ -9,8 +9,8 @@ const CONFIG = {
 
   // Mesas de regalos (texto del botón y su liga)
   regalos: [
-    { texto: 'Liverpool', url: 'https://mesaderegalos.liverpool.com.mx/' },
-    { texto: 'Amazon',    url: 'https://www.amazon.com.mx/baby-reg/homepage' }
+    { texto: 'Próximamente Liverpool', url: 'https://mesaderegalos.liverpool.com.mx/' },
+    { texto: 'Amazon',    url: 'https://www.amazon.com.mx/baby-reg/mnica-delgado-ascan-delavega-febrero-2027-aguascalientes/3MLVY9ST8KHM9?ref_=cm_sw_r_apann_dp_2YHXGQBY3YBBX4RMVTQD&language=en-US' }
   ],
 
   // Textos de la cuenta regresiva
